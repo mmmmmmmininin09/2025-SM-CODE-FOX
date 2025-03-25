@@ -1,4 +1,4 @@
-body { font-family: sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #FFE0B2; }
-header, nav, footer { padding: 1rem; background-color: #4fc3f7; color: #FFE0B2; text-align: center; }
-nav a { margin: 0 1rem; color: white; text-decoration: none; }
+body { font-family: sans-serif; margin: 0; padding: 0; background: #FFE0B2; color: #FF7043; }
+header, nav, footer { padding: 1rem; background-color: #FFE0B2; color: #FF7043; text-align: center; }
+nav a { margin: 0 1rem; color: #FF7043; text-decoration: none; }
 main { padding: 2rem; }
