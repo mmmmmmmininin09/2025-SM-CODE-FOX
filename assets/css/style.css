@@ -24,6 +24,10 @@ main {
 }
 
 /* ✅ 학생 연습 링크 스타일 */
+#practice h2 {
+  text-align: center;
+}
+
 .student-links {
   display: flex;
   flex-wrap: wrap;
