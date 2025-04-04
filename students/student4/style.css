@@ -1,6 +1,18 @@
 body {
-  font-family: sans-serif;
-  background-color: #FFF8ED;
-  padding: 2rem;
-  color: #FF7043;
+  background: linear-gradient(to down, #87CEFA, #1E90FF);
+  font-family: 'Gungsuh', '궁서', serif;
+  font-weight: bold;
+  color: navy;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+}
+h1 {
+  font-size: 35rem; 
+  color: #FF9966;
+}
+
+p {
+  font-size: 10rem; /* 약간 큰 본문 글씨 */
+  color: #f0f8ff;    /* 아주 연한 파란빛 흰색 */
 }
