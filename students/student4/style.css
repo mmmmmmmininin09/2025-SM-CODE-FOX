@@ -1,6 +1,7 @@
 body {
   background: linear-gradient(to down, #87CEFA, #1E90FF);
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Gungsuh', '궁서', serif;
+  font-weight: bold;
   color: navy;
   margin: 0;
   padding: 40px;
