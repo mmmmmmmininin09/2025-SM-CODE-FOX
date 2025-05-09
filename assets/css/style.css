@@ -2,13 +2,13 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background: #F9F9F9;
+  background: #6B8E23;
   color: #FF7043;
 }
 
 header, nav, footer {
   padding: 1rem;
-  background-color: #FFF8ED;
+  background-color: #6B8E23;
   color: #FF7043;
   text-align: center;
 }
